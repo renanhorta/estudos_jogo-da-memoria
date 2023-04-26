@@ -3,8 +3,7 @@ VocÊ pode entrar no projeto por nesse <a href="https://renanhorta.github.io/pro
 
 <h1 align="center">
 <br>
-  <img src="./images/jogo_da_memoria.png" alt="YOUR_PROJECT_NAME" width="120">
-  <img src="./images/jogo_da_memoria2.png" alt="YOUR_PROJECT_NAME" width="120">
+  <img src="./images/jogo_da_memoria2.png" alt="YOUR_PROJECT_NAME" width="200">
 <br>
 <br>
 Jogo da Memória
